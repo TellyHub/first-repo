@@ -13,7 +13,7 @@ import subprocess
 class config:
     AUTH_USERS = [1315975369 , 1984763765 , 2056092603]
     ADMIN_USERS = [1315975369 , 1984763765 , 2056092603]
-    LINK_JSON = "https://vigorous-kirch-074e44.netlify.app/dark_night.json"
+    LINK_JSON = "https://raw.githubusercontent.com/Sonuiptvnew/Sonuiptvnew/0d4304dea0d93c9e15e9cd743c4cc62f47091632/ONLY%20CARTOON%20CHANNEL%20.m3u"
 
 
 
